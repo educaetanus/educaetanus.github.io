@@ -1,6 +1,8 @@
 ---
-layout: page
-current: about
+layout: post
+current: post
+#layout: page
+#current: about
 title: About
 navigation: true
 logo: 'assets/images/ghost.png'
