@@ -72,7 +72,7 @@ lsi: False
 username: educaetanus
 repo: educaetanus.github.io
 branch: master
-relative_source: ../jasper2/
+relative_source: ../
 destination: ../jasper2-pages/
 production_url:  https://educaetanus.github.io/
 source_url:  https://educaetanus.github.io/
